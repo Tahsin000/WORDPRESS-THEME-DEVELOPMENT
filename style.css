@@ -1,0 +1,20 @@
+/* ===========================
+
+Theme Name: WordPress Learning
+Theme URI: #
+Version: 1.0.0
+Author: Tahsin Abrar
+Author URI: http://tahsin000.netlify.app/
+Text Domain: tahsinabra
+Description: we are learning wordpress theme development, it will be fun
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 5.3
+Tested up to: 6.2
+Requires PHP: 5.6
+===========================*/
+
+body{
+    background-color: aqua;
+}
